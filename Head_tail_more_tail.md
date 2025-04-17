@@ -69,3 +69,9 @@ View large files page by page
          
 ![image](https://github.com/user-attachments/assets/69beb801-97a4-4bb1-9278-3295df50dc0a)
 
+
+# tail
+
+The less command in Linux is a file pager that allows you to view (and optionally scroll through) large files one page at a time. It’s more powerful than more, as it lets you scroll both forward and backward within the file.
+
+![image](https://github.com/user-attachments/assets/23b213e3-55c8-44a3-8563-e6fdfec81201)
